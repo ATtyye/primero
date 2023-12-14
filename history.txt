@@ -1,0 +1,143 @@
+ 1  git --version
+    2  git -v
+    3  clear
+    4  git --help
+    5  git help commit
+    6  git config --global
+    7  git config --global user.name "carol"
+    8  :q!
+    9  :q
+   10  :wq!
+   11  git config --global user.name "carol"
+   12  git config --global -e
+   13  git config --global -e
+   14  cd proyectos
+   15  ls
+   16  pwd
+   17  cd carol
+   18  cd /carol
+   19  ls
+   20  cd Documentos
+   21  cd /c/Users/carol/Documents/DAW/Desarrollo/UF2/apuntes_git
+   22  touch README.md
+   23  echo hola > README.md
+   24  cat README.md
+   25  tac README.md
+   26  echo dell > ordenadores.md
+   27  ls
+   28  git add README.md
+   29  git status
+   30  git log
+   31  git commit -m "added README file"
+   32  git commit -m "added README.md file"
+   33  git init
+   34  git commit -m "added README.md file"
+   35  git config
+   36  history
+   37  commit
+   38  git config --global help
+   39  git config --help
+   40  git config --global user.name "carolina"
+   41  git config --global user.email "camova@jviladoms.cat"
+   42  history
+   43  git config --global e
+   44  git config --global -e
+   45  pwd
+   46  mkdir ProjecteNadal
+   47  tree
+   48  git init
+   49  cd .git
+   50  ls
+   51  git add salutacio.txt
+   52  git add .
+   53  touch salutacio.txt
+   54  sudo nano salutacio.txt
+   55  nano salutacio.txt
+   56  nano ReceptaNadal.txt
+   57  mkdir CançonsNadal
+   58  git config --global user.name "carolina"
+   59  git config --global user.email "camova@jviladoms.cat"
+   60  git config --global -e
+   61  pwd
+   62  mkdir ProjecteNadal
+   63  sudo rm -r ProjecteNadal
+   64  rm -r ProjecteNadal
+   65  sudo rm -r ProjecteNadal
+   66  mkdir ProjecteNadal
+   67  ls
+   68  cd ProjecteNadal/
+   69  git init
+   70  git init commit
+   71  cat > salutacio.txt
+   72  cat > ReceptaNadal.txt
+   73  mkdir CançonsNadal
+   74  cd CançonsNadal/
+   75  cat JingleBells.txt
+   76  cat > JingleBells.txt
+   77  cat FumFumFum.txt
+   78  cat > FumFumFum.txt
+   79  ls -la
+   80  git status
+   81  git add "ReceptaNadal.txt" commit
+   82  cd ..
+   83  git add "ReceptaNadal.txt" commit
+   84  git add "ReceptaNadal.txt"
+   85  git status
+   86  ls
+   87  git add ReceptaNadal.txt
+   88  git add salutacio.txt
+   89  git add CançonsNdal
+   90  git add CançonsNadal
+   91  git status
+   92  git commit -m "salutacio.txt"
+   93  git commit -m "ReceptaNadal.txt"
+   94  git commit -m "ReceptaNadal.txt"
+   95  ls
+   96  git commit -m "ReceptaNadal.txt"
+   97  git add "ReceptaNadal.txt"
+   98  git commit -m "ReceptaNadal.txt"
+   99  git status
+  100  rm -r commit
+  101  ls
+  102  git  status
+  103  git add .
+  104  ls
+  105  git add ReceptaNadal.txt
+  106  git add salutacio.txt
+  107  git add CançonsNadal
+  108  git status
+  109  ls
+  110  git add salutacio.txt
+  111  git commit -m "salutacio.txt"
+  112  git commit -m salutacio.txt
+  113  rm -rf .git
+  114  git init
+  115  git status
+  116  git add salutacio.txt
+  117  git commit -m "salutacio.txt"
+  118  git add ReceptaNadal.txt
+  119  git commit -m "ReceptaNadal.txt"
+  120  git add CançonsNadal
+  121  git commit -m "CançonsNadal"
+  122  git status
+  123  ls
+  124  nano salutacio.txt
+  125  checkout
+  126  git checkout
+  127  git log
+  128  nano ReceptaNadal.txt
+  129  git difftool
+  130  git commit -m "hola"
+  131  git commit -m "errorrrrr"
+  132  git commit -m "Hola.txt"
+  133  git reset --soft
+  134  git reset --help
+  135  git reset --help
+  136  git commit aaaa
+  137  git commit -m "errorrrrr.txt"
+  138  git commit --amend
+  139  gh repo clone ATtyye/primero
+  140  git clone https://github.com/ATtyye/primero.git
+  141  ls
+  142  history
+
